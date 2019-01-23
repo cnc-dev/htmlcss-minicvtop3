@@ -138,13 +138,45 @@ body{
 
 
 
-.dvd{
+.vetrina{
   width: 550px;
   height: 550px;
   position: absolute;
   right: 0px;
   top: 0px;
 }
+
+.cars{
+  height: 31%;
+  position: relative;
+  margin: 0px;
+}
+
+#imgcar{
+  height: 100px;
+  width: auto;
+  position: absolute;
+  top: 50px;
+}
+
+.box >i{
+  position: absolute;
+  left: 20px;
+  font-size: 20px;
+  color: dodgerblue;
+}
+
+span{
+  float: right;
+  margin-left: 20px;
+  margin-top: 40px;
+  height: 100px;
+  width: 400px;
+  text-align: center;
+  display: inline-block;
+}
+
+
 
 .footer{
   width: 100%;
