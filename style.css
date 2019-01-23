@@ -10,12 +10,6 @@ body{
   margin-top: 10px;
 }
 
-/* .clearfix:after{
-  clear: both;
-  content: '';
-  display: table;
-} */
-
 .box{
   background-color: white;
   border-radius: 10px;
@@ -44,7 +38,7 @@ body{
   text-align: center;
   position: relative;
   top: 100px;
-  color: darkblue;
+  color: darkred;
   line-height: 5px;
 }
 
@@ -55,14 +49,6 @@ body{
   font-style: italic;
   margin: 15px;
 }
-
-/* button{
-  background-color: dodgerblue;
-  height: 30px;
-  width: 120px;
-  border-radius: 20px;
-} */
-
 
 .button {
   display: inline-block;
@@ -136,7 +122,6 @@ body{
   left: 0px;
   top: 380px;
   font-size: 40px;
-  color: darkgrey;
   text-align: center;
 }
 
@@ -148,7 +133,7 @@ body{
 }
 
 .fab:hover{
-  color: blue;
+  color: darkblue;
 }
 
 
