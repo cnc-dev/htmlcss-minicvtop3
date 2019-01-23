@@ -23,7 +23,7 @@ body{
 
 .user{
   height: 350px;
-  width: 360px;
+  width: 380px;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -40,9 +40,32 @@ body{
   top: 10px;
 }
 
+.bio{
+  text-align: center;
+  position: relative;
+  top: 100px;
+  color: darkblue;
+  line-height: 5px;
+}
+
+.descrizione{
+  text-align: center;
+  position: relative;
+  top: 100px;
+  font-style: italic;
+  margin: 15px;
+}
+
+button{
+  background-color: dodgerblue;
+  height: 30px;
+  width: 120px;
+  border-radius: 20px;
+}
+
 .social{
-  width: 360px;
-  height: 80px;
+  width: 380px;
+  height: 100px;
   position: absolute;
   left: 0px;
   top: 380px;
@@ -60,5 +83,5 @@ body{
   width: 100%;
   height: 90px;
   position: absolute;
-  top: 580px;
+  top: 570px;
 }
